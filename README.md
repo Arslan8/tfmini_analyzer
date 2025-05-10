@@ -1,8 +1,4 @@
 # tfmini_analyzer
-Sure! Here's the `README.md` in proper Markdown format:
-
-
-# tfmini_analyzer
 
 **Python-based UART analyzer for the TFMini-S LiDAR using the Saleae Logic 2 Automation API.**
 
